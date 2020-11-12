@@ -17,7 +17,7 @@ So you want to be a front-end web developer?
 ## JavaScript
 
 * Makes content interactive
-* Lear from [The Modern JavaScript Tutorial](https://javascript.info/)
+* Learn from [The Modern JavaScript Tutorial](https://javascript.info/)
   * The bare minimum is [JavaScript Fundamentals section](https://javascript.info/first-steps)
   * I suggest to go through the whole tutorial
 * [IDE / editor](https://javascript.info/code-editors)
@@ -83,6 +83,7 @@ If you are have an issue you are most likely not first - search [Stack Overflow]
 If you are using a library, read its docs first! Its usually [on project website](https://lodash.com/docs/) or in [GitHub repo](https://github.com/Typeform/embed).
 
 > Remember, a few hours of trial and error can save you several minutes of looking at the README.
--- [@iamdevloper](https://twitter.com/iamdevloper/status/1060067235316809729?s=20)
+>
+> -- [@iamdevloper](https://twitter.com/iamdevloper/status/1060067235316809729?s=20)
 
 I would try to avoid [w3schools.com](http://w3schools.com/), [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/Reference) provides much more accurate references, tutorials and examples.
