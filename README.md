@@ -68,7 +68,8 @@ So you want to be a front-end web developer?
 * Graphic apps
   * It is necessary to understand how it works (you should learn by using the terminal)
   * You can make your everyday life easier by using graphic app
-  * My favorite is [Sourcetree](https://www.sourcetreeapp.com/) (other good alternatives are [GitHub Desktop](https://desktop.github.com/) or [GitKraken](https://www.gitkraken.com/))
+  * ~My favorite is [Sourcetree](https://www.sourcetreeapp.com/).~ Not anymore, because of [this serious bug](https://jira.atlassian.com/browse/SRCTREE-7184) I do not recommend using it.
+  * Good free alternative is [GitHub Desktop](https://desktop.github.com/)
 * It is not necessary to know all the commands (official docs https://git-scm.com/doc), no one knows them all
 * Remote repositories for your projects: [GitHub.com](https://github.com/)
   * for sharing code with others
