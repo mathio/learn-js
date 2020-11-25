@@ -65,11 +65,10 @@ So you want to be a front-end web developer?
 * Tool for sharing the code with other developers
 * Find the [must-have basics in Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * Hand-on with git in [interactive tutorial: Learn Git Branching](https://learngitbranching.js.org/)
-* Graphic apps
-  * It is necessary to understand how it works (you should learn by using the terminal)
+* [Graphic apps](https://git-scm.com/downloads/guis)
+  * It is necessary to understand how git works (you should learn basics by using the terminal)
   * You can make your everyday life easier by using graphic app
-  * ~My favorite is [Sourcetree](https://www.sourcetreeapp.com/).~ Not anymore, because of [this serious bug](https://jira.atlassian.com/browse/SRCTREE-7184) I do not recommend using it.
-  * Good free alternative is [GitHub Desktop](https://desktop.github.com/)
+  * My favorite is [Sourcetree](https://www.sourcetreeapp.com/). (Note: there is a [this serious bug](https://jira.atlassian.com/browse/SRCTREE-7184) related to `husky` - [a solution is here](https://github.com/typicode/husky/issues/639#issuecomment-573281096)).
 * It is not necessary to know all the commands (official docs https://git-scm.com/doc), no one knows them all
 * Remote repositories for your projects: [GitHub.com](https://github.com/)
   * for sharing code with others
