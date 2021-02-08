@@ -6,12 +6,14 @@ So you want to be a front-end web developer?
 
 * Displays the content of the website (text, images)
 * Start with [HTML basics (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+* You can play with HTML right in your browser on [JSFiddle](https://jsfiddle.net/)
 
 
 ## CSS
 
 * Defines what the content looks like (colors, sizes, alignments, spacing, etc)
 * Read [Getting started with CSS (MDN)](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
+* You can play with CSS right in your browser on [JSFiddle](https://jsfiddle.net/)
 
 
 ## JavaScript
