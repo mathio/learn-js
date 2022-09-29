@@ -33,7 +33,7 @@ So you want to be a front-end web developer?
 * JavaScript can be also run server-side
 * It can run a server to serve your website, work with files, connect to databases and much more
 * You need to [download and install it in your machine](https://nodejs.org/en/download/)
-* Read [the tutorial](https://nodejs.dev/learn) to get started
+* Read [the tutorial](https://nodejs.dev/en/learn/) to get started
 * [Official docs](https://nodejs.org/dist/latest-v14.x/docs/api/) are a great reference if you need to find something
 
 
