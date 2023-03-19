@@ -91,6 +91,7 @@ If you are using a library, read its docs first! Its usually [on project website
 
 I would try to avoid [w3schools.com](http://w3schools.com/), [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/Reference) provides much more accurate references, tutorials and examples.
 
-# Alternative resources
+# More resources
 - [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning#javascript)
+- [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning#javascript) - Curated list of project-based tutorials
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨
