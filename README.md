@@ -97,3 +97,4 @@ I would try to avoid [w3schools.com](http://w3schools.com/), [MDN (Mozilla Devel
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+- [airbnb/javascript](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
