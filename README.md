@@ -92,9 +92,11 @@ If you are using a library, read its docs first! Its usually [on project website
 I would try to avoid [w3schools.com](http://w3schools.com/), [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/Reference) provides much more accurate references, tutorials and examples.
 
 # More resources
-- [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning#javascript) - Curated list of project-based tutorials
-- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning#javascript) - Curated list of project-based tutorials
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
+- [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+- [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - Step-by-step tutorial to build a modern JavaScript stack.
