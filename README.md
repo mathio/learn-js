@@ -90,3 +90,6 @@ If you are using a library, read its docs first! Its usually [on project website
 > -- [@iamdevloper](https://twitter.com/iamdevloper/status/1060067235316809729?s=20)
 
 I would try to avoid [w3schools.com](http://w3schools.com/), [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/Reference) provides much more accurate references, tutorials and examples.
+
+# Alternative resources
+- [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
