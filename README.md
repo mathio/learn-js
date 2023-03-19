@@ -93,3 +93,4 @@ I would try to avoid [w3schools.com](http://w3schools.com/), [MDN (Mozilla Devel
 
 # Alternative resources
 - [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [practical-tutorials / project-based-learning](https://github.com/practical-tutorials/project-based-learning#javascript)
